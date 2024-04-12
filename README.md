@@ -1,25 +1,18 @@
-# Welcome to My GitHub Repository
+<h1 align="center">Hello there! I am, Gagandeep M</h1>
+<h3 align="center">A passionate and self-motivated undergraduate trying to explore and learn about technical fields.</h3>
 
-## Introduction
-A passionate and self-motivated undergraduate trying to explore and learn about technical fields. 
-Let's take a closer look at some of the projects housed in this repository:
+- 👨‍💻 All of my projects are available at [github.com/mgagan544](github.com/mgagan544)
 
-### Banking Operations Program
-This menu-driven C program allows users to perform essential banking operations such as deposit, balance check, withdrawal, interest calculation for savings accounts, FD interest and maturity calculation, and home loan EMI calculation.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gagandeep-m-aa44a41ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagandeep-m-aa44a41ab" height="30" width="40" /></a>
+<a href="https://instagram.com/mgagan544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgagan544" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@mgagan544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mgagan544" height="30" width="40" /></a>
+</p>
 
-### Cricket Dream Team Project
-The Cricket Dream Team project is a beginner-friendly Python application that enables users to create their dream cricket team. It incorporates MySQL for database management, Tkinter for GUI, and offers functionalities like player input, team rating calculation, and more.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Landru
-Landru is a machine learning project focused on optimizing traffic flow using traffic simulation data and reinforcement learning techniques. Through the application of machine learning algorithms, it aims to understand traffic patterns, predict traffic conditions, and improve traffic management on virtual networks.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgagan544&show_icons=true&locale=en&layout=compact" alt="mgagan544" /></p>
 
-### Kurt
-This project presents a framework for building chatbots that support multimedia text summarization using Large Language Models (LLMs) and mmaction2. It offers a robust platform for developing chatbots with advanced text summarization capabilities.
-
-## Contributions
-Contributions to any of my projects are always welcome! Whether it's bug fixes, feature enhancements, or new project ideas, feel free to submit pull requests or open issues. Let's collaborate and create innovative solutions together!
-
-## Contact
-Feel free to connect me through LinkedIn-https://www.linkedin.com/in/gagandeep-m-aa44a41ab/ or message directly through Github.
-
-Thank you for visiting my GitHub profile!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgagan544&show_icons=true&locale=en" alt="mgagan544" /></p>
